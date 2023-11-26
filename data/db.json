@@ -1,0 +1,46 @@
+{
+  "api": [
+    {
+      "id": 2,
+      "age": "20",
+      "name": "Michelle",
+      "email": "michelle@test.com",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "age": "30",
+      "name": "Anna",
+      "email": "anna@test.com",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "age": "45",
+      "name": "Karl",
+      "email": "karl@test.com",
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "age": "15",
+      "name": "Michael",
+      "email": "michael@test.com",
+      "gender": "male"
+    },
+    {
+      "id": 7,
+      "age": "34",
+      "name": "Metin",
+      "email": "metin@fdk.dk",
+      "gender": "other"
+    },
+    {
+      "id": 8,
+      "age": "10",
+      "name": "Jens",
+      "email": "js@js.dk",
+      "gender": "male"
+    }
+  ]
+}
